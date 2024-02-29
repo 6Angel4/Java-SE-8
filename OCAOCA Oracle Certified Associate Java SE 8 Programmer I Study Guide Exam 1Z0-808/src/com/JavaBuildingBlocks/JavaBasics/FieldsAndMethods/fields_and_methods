@@ -1,0 +1,23 @@
+En java se tienen 2 elementos primarios: metodos, que tambien son llamados funciones o procedimientos
+en otros lenguajes, y fields (campos), generalmente llamados variables. Estos 2 elementos juntos son
+llamados miembros de la clase.
+Las variables manejan el estado del programa, y los metodos operan sobre el estado.
+Si los cambios son importantes para recordar, una variable almacena el cambio.Eso lo realizan todas las
+clases.
+El programador quien crea y organiza estos elementos.
+Otros bloques de construccion (building blocks) incluyen interfaces.
+
+En el ejemplo #3 se definien los primeros metodos. Un metodo es una operacion que puede ser llamada
+Recordando, public, quiere decir que ese metodo puede ser llamado desde otras clases.
+El tipo de retorno (return)- en el caso dedl ejemplo de Animal3.java, el metodo retorna un String,
+despues llega otro metodo , este otro metodo tiene un retrun especial llamado void.
+void significa no hay nada que regresar. Este metodo que retorna void requeire de parametros, en
+este caso requeire un parametro de tipo String
+
+
+//Primer ejemplo//
+com.JavaBuildingBlocks.JavaBasics - Animal.java
+//Segundo ejemplo//
+com.JavaBuildingBlocks-JavaBasics - Animal2.java
+//Tercer ejemplo//
+com.JavaBuildingBlocks-JavaBasics - Animal3.java
